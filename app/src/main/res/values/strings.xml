@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cellepathy</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_text">This app demonstrates how audio can be played over a phone’s speaker
+        even when the phone is connected to Bluetooth</string>
+    <string name="type_a_word">Type a word</string>
+    <string name="play">PLAY</string>
+    <string name="voice_over_bluetooth">Play Voice Over Bluetooth</string>
+</resources>
